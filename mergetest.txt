@@ -1,4 +1,4 @@
-testing merge strategy in master
+testing stash strategy in master
 remote copy v1 
 repository copy v2 
 staging area copy v3
