@@ -3,4 +3,4 @@ repository copy v2
 staging area copy v3
 working directory copy v4
 working directory copy v4
- 
+ copyright test
