@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+Vikas Jain
 
 # TECHNOLOGY COLOPHON
 
